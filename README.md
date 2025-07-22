@@ -1,6 +1,8 @@
 # SUPRENUM
 SUPRENUM - Supercomputer for Numerical Applications was a German research project to develop a parallel computer between 1985 and 1990. Although the Suprenum-1 was the most powerful massively parallel computer system in the world for a short time, the development of a second generation of the system was not financed.
 
+## SUPRENUM - European made supercomputer
+SUPRENUM was the German supercomputer project aiming at the development and construction of a distributed-memory multiprocessor system. Within the SUPRENUM project many application codes are either parallelized or completely new developed. Using the concepts of the Abstract SUPRENUM Machine and some programming environment tools these applications can be parallelized rather easily and straightforward.
 
 ## Further information
 - de.wikipedia.org/wiki/SUPRENUM
