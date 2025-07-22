@@ -1,0 +1,30 @@
+SUMMARY
+
+"The SUPRENUM project ended around 25 years ago. The aim of this large-scale German project, funded by the Ministry of Research, 
+was to develop a parallel supercomputer, particularly for large numerical applications. In a joint initiative involving research 
+centers, industry, and university expert groups, the aim was to create a scalable computer system that offered true peak performance 
+based on a MIMD parallel architecture. In addition to hardware design and implementation, this also required a large number of software 
+developments. In fact, around two-thirds of the project costs were spent on software development.
+
+In 1989, the first (“small”) system was presented to great public acclaim at the Hannover Messe Industrie trade fair and celebrated as a
+major success. A system with the highest level of expansion was then installed and approved at the GMD in Sankt Augustin in December 1990. 
+From 1991 and 1992, a large number of applications were implemented on this fully developed system and extensive performance measurements 
+were carried out. The result in a nutshell: With a peak performance of 3.0 GFLOPS (for a matrix multiplication), SUPRENUM was the fastest
+MIMD computer in the world at the time.
+
+However, the more significant and lasting breakthroughs were achieved not on the hardware side, but on the software side. The project had
+not only a research goal, but also a commercial one. This was one of the conditions formulated by the main industry partners from the outset. 
+The SUPRENUM systems manufactured by the industry partner Krupp Atlas Elektronik GmbH were to be procured and used in particular by research 
+institutions as high-performance computers. However, apart from the target system for the GMD, only five smaller systems were procured and 
+installed by institutions closely involved in the project.
+
+The main reason for this lack of commercial success was that industry and research policy makers could not agree on the financing of the 
+further development of the system (SUPRENUM 2). No (genuine) buyer can be found for a (high-performance) system whose future is uncertain.
+However, the software developments of the project were successfully marketed by Pallas GmbH and continued in the European GENESIS project 
+and later in the EUROPORT project, among others. The parallelization concepts in particular were groundbreaking. They still form the basis
+of a large number of large parallel applications today.
+
+This article takes a retrospective look at the technical developments and research policy aspects of the project at the time. Some of the
+technical developments appear exceptional in retrospect. Some of the political decisions in the initial phase of the project were courageous
+and visionary, while the attitude of industry at the end was rather short-sighted and not very forward-looking."
+
