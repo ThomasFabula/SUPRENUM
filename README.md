@@ -18,3 +18,6 @@ Suprenum, parallel computer
 
 ## Key people
 Wolfgang Giloi, together with Ulrich Trottenberg, played a key role in the development of the SUPRENUM parallel computer.
+- https://de.wikipedia.org/wiki/Wolfgang_Giloi
+- https://de.wikipedia.org/wiki/Ulrich_Trottenberg
+
