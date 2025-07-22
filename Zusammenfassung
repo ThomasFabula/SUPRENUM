@@ -1,0 +1,28 @@
+ZUSAMMENFASSUNG
+
+Vor rund 25 Jahren endete das SUPRENUM-Projekt. Ziel dieses großen, vom Forschungsministerium geförderten deutschen Projekts war die
+Entwicklung eines parallelen SUPer-REchners, insbesondere für große NUMerische Anwendungen. In einer gemeinsamen Initiative von Forschungszentren, 
+der Industrie und universitären Expertengruppen sollte ein skalierbares Rechnersystem entstehen, das auf der Basis einer MIMD-parallelen
+Architektur echte Höchstleistung bot. Dazu war neben der Hardware-Konzeption und -realisierung auch eine Vielzahl von Softwareentwicklungen 
+erforderlich. Und tatsächlich wurden auch etwa zwei Drittel der Projektkosten für die Softwareentwicklungen aufgewendet. Im Jahre 1989 wurde
+das erste („kleine“) System unter großer öffentlicher Aufmerksamkeit auf der Hannover-Messe Industrie präsentiert und als großer Erfolg gefeiert.
+
+Ein System der höchsten Ausbaustufe wurde dann im Dezember 1990 in der GMD in Sankt Augustin installiert und abgenommen. Ab 1991 und 1992 
+wurden eine Vielzahl von Anwendungen auf diesem voll ausgebauten System implementiert und umfangreiche Leistungsmessungen durchgeführt.
+Das Ergebnis kurz zusammengefasst: Mit einer Leistungsspitze von gemessenen 3,0 GFLOPS (für eine Matrixmultiplikation) war SUPRENUM damals
+der schnellste MIMD-Rechner der Welt. Die langfristig bedeutenderen, nachhaltigen Durchbrüche gelangen allerdings nicht auf der Hardware-,
+sondern auf der Softwareseite. Das Projekt hatte nicht nur ein Forschungs-, sondern auch ein kommerzielles Ziel. Das war eine der Bedingungen,
+die von den Hauptindustriepartnern von Anfang an formuliert wurden. Die vom Industriepartner Krupp Atlas Elektronik GmbH gefertigten
+SUPRENUM-Systeme sollten insbesondere von Forschungseinrichtungen als Hochleistungsrechner beschafft und genutzt werden. Es wurden aber
+außer dem Zielsystem für die GMD nur fünf kleinere Systeme von projektnahen Institutionen beschafft und installiert. Der Hauptgrund für 
+diesen ungenügenden kommerziellen Erfolg lag in der Tatsache, dass Industrie und Forschungspolitik sich über die Finanzierung der
+Weiterentwicklung des Systems (SUPRENUM 2) nicht einigen konnten. Für ein (Höchstleistungs-)System, dessen Zukunft nicht gewährleistet ist, 
+findet man keinen (echten) Käufer.
+
+Die Softwareentwicklungen des Projekts wurden allerdings mit Erfolg von der Pallas GmbH vermarktet und unter anderem im europäischen 
+GENESIS-Projekt und später im EUROPORT-Projekt weitergeführt. Insbesondere die Parallelisierungskonzepte waren richtungsweisend. Sie 
+sind heute noch die Grundlage einer Vielzahl von großen parallelen Anwendungen. In diesem Artikel werden die damaligen technischen 
+Entwicklungen und die forschungspolitischen Aspekte des Projekts rückblickend betrachtet. Manche der technischen Entwicklungen erscheinen
+im Rückblick exzeptionell. Einige der politischen Entscheidungen in der Startphase des Projekts waren mutig und visionär, die Haltung der
+Industrie am Ende dagegen eher kurzsichtig und wenig zukunftsorientiert.
+
