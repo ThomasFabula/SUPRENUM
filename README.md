@@ -24,3 +24,7 @@ Wolfgang Giloi, together with Ulrich Trottenberg, played a key role in the devel
 - https://de.wikipedia.org/wiki/Wolfgang_Giloi
 - https://de.wikipedia.org/wiki/Ulrich_Trottenberg
 
+## Videos
+- https://www.youtube.com/watch?v=EegYABYDL0M
+- https://www.youtube.com/watch?v=4_fz3CWRakY
+
