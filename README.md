@@ -4,6 +4,9 @@ SUPRENUM - Supercomputer for Numerical Applications was a German research proj
 ## SUPRENUM - European made supercomputer
 SUPRENUM was the German supercomputer project aiming at the development and construction of a distributed-memory multiprocessor system. Within the SUPRENUM project many application codes are either parallelized or completely new developed. Using the concepts of the Abstract SUPRENUM Machine and some programming environment tools these applications can be parallelized rather easily and straightforward.
 
+- https://tfconsult.com/suprenum-german-supercomputer/
+
+
 ## Further information
 - https://de.wikipedia.org/wiki/SUPRENUM
 - https://www.researchgate.net/publication/327163160_SUPRENUM_25_Jahre
