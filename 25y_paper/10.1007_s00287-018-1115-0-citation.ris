@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Trottenberg, Ulrich
+AU  - Thomas, Bernhard
+PY  - 2018
+DA  - 2018/10/01
+TI  - SUPRENUM 25 Jahre
+JO  - Informatik-Spektrum
+SP  - 298
+EP  - 310
+VL  - 41
+IS  - 5
+AB  - Vor rund 25 Jahren endete das SUPRENUM-Projekt. Ziel dieses großen, vom Forschungsministerium geförderten deutschen Projekts war die Entwicklung eines parallelen SUPerREchners, insbesondere für große NUMerische Anwendungen. In einer gemeinsamen Initiative von Forschungszentren, der Industrie und universitären Expertengruppen sollte ein skalierbares Rechnersystem entstehen, das auf der Basis einer MIMD-parallelen Architektur echte Höchstleistung bot. Dazu war neben der Hardwarekonzeption und -realisierung auch eine Vielzahl von Softwareentwicklungen erforderlich. Und tatsächlich wurden auch etwa zwei Drittel der Projektkosten für die Softwareentwicklungen aufgewendet.
+SN  - 1432-122X
+UR  - https://doi.org/10.1007/s00287-018-1115-0
+DO  - 10.1007/s00287-018-1115-0
+ID  - Trottenberg2018
+ER  - 
