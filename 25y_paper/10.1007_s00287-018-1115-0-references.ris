@@ -1,0 +1,301 @@
+TY  - STD
+TI  - Brand K, Lemke M (1989) SUPRENUM Bibliography Edition 2.1, SUPRENUM Report 9
+ID  - ref1
+ER  - 
+TY  - STD
+TI  - Burde T, Vallbracht G, Waldschütz S (1985) Fördervorhaben SUPRENUM, Untersuchung von Anwendungs-, Bedarfs- und Akzeptanzfragen, B-SZ 1415/01. IABG GmbH
+ID  - ref2
+ER  - 
+TY  - JOUR
+AU  - Colbrook, A.
+AU  - Duff, I.
+AU  - Hey, T.
+AU  - Stüben, K.
+AU  - Thole, C. A.
+PY  - 1997
+DA  - 1997//
+TI  - Special Issue EUROPORT
+JO  - Int J Supercomput Appl High Perform Comput
+VL  - 11
+ID  - Colbrook1997
+ER  - 
+TY  - STD
+TI  - Franke B, Harneit R, Kern A, Zeidler HC (1988) The Pipeline Bus: An interconnection network for multiprocessor systems. In: Trottenberg U (Hrsg) Proceedings of the 2nd International SUPRENUM Colloquium 1987. Parallel Comput 7:403–412
+ID  - ref4
+ER  - 
+TY  - JOUR
+AU  - Gärtel, U.
+AU  - Joppich, W.
+AU  - Schüller, A.
+AU  - Trottenberg, U.
+PY  - 1995
+DA  - 1995//
+TI  - Wetter- und Klimavorhersage auf hochgradig parallelen Rechnern
+JO  - Informatik-Spektrum
+VL  - 18
+ID  - Gärtel1995
+ER  - 
+TY  - STD
+TI  - Giloi WK (1988) SUPRENUM: A Trendsetter in Modern Supercomputer Development. In: Trottenberg U (Hrsg) Proceedings of the 2nd International SUPRENUM Colloquium 1987. Parallel Comput 7:283–296
+ID  - ref6
+ER  - 
+TY  - STD
+TI  - Händler W (1984) Anmerkungen zu Erlanger Multiprozessoren. In: Trottenberg U, Wypior P (Hrsg) Rechnerarchitekturen für die numerische Simulation auf der Basis superschneller Lösungsverfahren I. GMD-Studien 88:77–113
+ID  - ref7
+ER  - 
+TY  - STD
+TI  - Händler W, Herzog U, Hofmann F, Schneider HJ (1984) Multiprozessoren für breite Anwendungsgebiete: Erlangen General Purpose Array, GI/NTG Fachtagung ,,Architektur und Betrieb von Rechensystemen“. Informatik-Fachberichte 78. Springer, Heidelberg, S 195–208
+ID  - ref8
+ER  - 
+TY  - CHAP
+AU  - Hempel, R.
+ED  - Reuter, A.
+PY  - 1990
+DA  - 1990//
+TI  - Portabilität numerischer Software für Parallelrechner unterschiedlicher Architektur
+BT  - GI – 20. Jahrestagung I (1990)
+PB  - Springer
+CY  - Heidelberg
+ID  - Hempel1990
+ER  - 
+TY  - JOUR
+AU  - Hempel, R.
+AU  - Schüller, A.
+AU  - Solchenbach, K.
+AU  - Trottenberg, U.
+PY  - 1992
+DA  - 1992//
+TI  - Portable Anwendungssoftware für Parallelrechner
+JO  - Informationstechnik
+VL  - 34
+ID  - Hempel1992
+ER  - 
+TY  - STD
+TI  - Herzog U (1988) Performance evaluation principles for vector- and multiprocessor systems. In: Trottenberg U (Hrsg) Proceedings of the 2nd International SUPRENUM Colloquium 1987. Parallel Comput 7:425–438
+ID  - ref11
+ER  - 
+TY  - STD
+TI  - Hey A, McBryan OA (1994) SUPRENUM and GENESIS. Parallel Comput 20(10–11)
+ID  - ref12
+ER  - 
+TY  - BOOK
+AU  - Hillis, W. D.
+PY  - 1985
+DA  - 1985//
+TI  - The Connection Machine
+PB  - MIT-Press
+CY  - Cambridge
+ID  - Hillis1985
+ER  - 
+TY  - STD
+TI  - Hofmann F, Händler W, Volkert J, Henning G, Fritsch G (1984) Multiprozessor-Architekturkonzept für Mehrgitterverfahren. In: Trottenberg U, Wypior P (Hrsg) Rechnerarchitekturen für die numerische Simulation auf der Basis superschneller Lösungsverfahren I. GMD-Studien 88:65–76
+ID  - ref14
+ER  - 
+TY  - STD
+TI  - Hoßfeld F (1994) Vector-Supercomputers. In: Hey A, McBryan OA (Hrsg) SUPRENUM and GENESIS. Parallel Comput 7(10–11):373–385
+ID  - ref15
+ER  - 
+TY  - STD
+TI  - Kammer H (1988) The SUPRENUM vector floating-point unit. In: Trottenberg U (Hrsg) Proceedings of the 2nd International SUPRENUM Colloquium 1987. Parallel Comput 7:315–324
+ID  - ref16
+ER  - 
+TY  - STD
+TI  - Kauranne T (1994) Summary of GENESIS work at the European Centre for Medium-range Weather Forecasts (ECMWF). In: Hey A, McBryan OA (1994) SUPRENUM and GENESIS. Parallel Comput 20(10–11):1389–1396
+ID  - ref17
+ER  - 
+TY  - STD
+TI  - Kremer U, Bast HJ, Gerndt M, Zima H (1988) Advanced tools and techniques for automatic parallelization. In: Trottenberg U (Hrsg) Proceedings of the 2nd International SUPRENUM Colloquium 1987. Parallel Comput 7:387–393
+ID  - ref18
+ER  - 
+TY  - STD
+TI  - Lemke M (2018) European Commission, Head of Unit Technologies & Systems for Digitising Industry: Persönliche Kommunikation
+ID  - ref19
+ER  - 
+TY  - STD
+TI  - Mierendorff H, Trottenberg U (Hrsg) (1992) Leistungsmessungen für technisch-wissenschaftliche Anwendungen auf dem SUPRENUM-System. Arbeitspapiere der GMD Nr. 624
+ID  - ref20
+ER  - 
+TY  - STD
+TI  - Mierendorff H, Trottenberg U (1992) (Hrsg) Ergänzende Leistungsmessungen für technisch-wissenschaftliche Anwendungen auf dem SUPRENUM-System. Arbeitspapiere der GMD Nr. 669
+ID  - ref21
+ER  - 
+TY  - STD
+TI  - Peinze K (1988) The SUPRENUM preprototype: Status and Experiences. In: Trottenberg U (Hrsg) Proceedings of the 2nd International SUPRENUM Colloquium 1987. Parallel Comput 7:297–313
+ID  - ref22
+ER  - 
+TY  - JOUR
+AU  - Peinze, K.
+AU  - Trottenberg, U.
+AU  - Thomas, B.
+PY  - 1989
+DA  - 1989//
+TI  - Parallelrechner für Superleistung – SUPRENUM
+JO  - Technische Mitteilungen Krupp
+VL  - 1
+ID  - Peinze1989
+ER  - 
+TY  - BOOK
+AU  - Regenspurg, G.
+PY  - 1987
+DA  - 1987//
+TI  - Hochleistungsrechner-Architekturprinzipien
+PB  - McGraw-Hill
+CY  - New York
+ID  - Regenspurg1987
+ER  - 
+TY  - STD
+TI  - Rönsch W, Strauss H (1988) A linear algebra package for a local memory multiprocessor: Problems, proposals and solutions. In: Trottenberg U (Hrsg) Proceedings of the 2nd International SUPRENUM Colloquium 1987. Parallel Comput 7:413–418
+ID  - ref25
+ER  - 
+TY  - STD
+TI  - Schröder W (1988) PEACE: The distributed SUPRENUM operating system. In: Trottenberg U (Hrsg) Proceedings of the 2nd International SUPRENUM Colloquium 1987. Parallel Comput 7:325–333
+ID  - ref26
+ER  - 
+TY  - JOUR
+AU  - Solchenbach, K.
+PY  - 1989
+DA  - 1989//
+TI  - Suprenum-Fortran – an MIMD/SIMD language
+JO  - Supercomputer
+VL  - 30
+ID  - Solchenbach1989
+ER  - 
+TY  - CHAP
+AU  - Solchenbach, K.
+AU  - Thomas, B.
+AU  - Trottenberg, U.
+ED  - Meuer, H. W.
+PY  - 1989
+DA  - 1989//
+TI  - Dem parallelen Rechnen gehört die Zukunft
+BT  - Supercomputer ’89. Informatik-Fachberichte 211
+PB  - Springer
+CY  - Heidelberg
+ID  - Solchenbach1989
+ER  - 
+TY  - STD
+TI  - Solchenbach K, Trottenberg U (1994) SUPRENUM: System essentials and grid applications. In: Hey A, McBryan OA (Hrsg) SUPRENUM and GENESIS. Parallel Comput 7(10–11):265–282
+ID  - ref29
+ER  - 
+TY  - STD
+TI  - Solchenbach K, Thole CA, Trottenberg U (1994) GENESIS Application Software. In [12], pp 1669–1673
+ID  - ref30
+ER  - 
+TY  - STD
+TI  - Trottenberg U (1988) (Hrsg) Proceedings of the 2nd International SUPRENUM Colloquium 1987. Parallel Computing 7
+ID  - ref31
+ER  - 
+TY  - CHAP
+AU  - Trottenberg, U.
+ED  - Reuse, B.
+ED  - Vollmar, R.
+PY  - 2008
+DA  - 2008//
+TI  - Das Superrechnerprojekt SUPRENUM (1984–1989)
+BT  - Informatikforschung in Deutschland
+PB  - Springer
+CY  - Heidelberg
+ID  - Trottenberg2008
+ER  - 
+TY  - STD
+TI  - Trottenberg U, Oosterlee CW, Schüller A (2001) Multigrid. Academic Press
+ID  - ref33
+ER  - 
+TY  - JOUR
+AU  - Trottenberg, U.
+AU  - Wypior, P.
+PY  - 1984
+DA  - 1984//
+TI  - Rechnerarchitekturen für die numerische Simulation auf der Basis superschneller Lösungsverfahren I
+JO  - GMD-Studien
+VL  - 88
+ID  - Trottenberg1984
+ER  - 
+TY  - STD
+TI  - Trottenberg U, Wypior P (1985) Rechnerarchitekturen für die numerische Simulation auf der Basis superschneller Lösungsverfahren II. GMD-Studien 102
+ID  - ref35
+ER  - 
+TY  - JOUR
+AU  - Werner, K. H.
+AU  - Brass, U.
+AU  - Thomas, E.
+PY  - 1989
+DA  - 1989//
+TI  - The Suprenum user interface
+JO  - Supercomputer
+VL  - 30
+ID  - Werner1989
+ER  - 
+TY  - STD
+TI  - Brandt A (1984) Local and Multi-Level Parallel Processing Mill. In: Trottenberg U, Wypior P (Hrsg) Rechnerarchitekturen für die numerische Simulation auf der Basis superschneller Lösungsverfahren I. GMD-Studien 88
+ID  - ref37
+ER  - 
+TY  - STD
+TI  - Feilmeier M, Junker M (1986) Superrechner, das Projekt SUPRENUM und die Konsequenzen dieser Entwicklung, Report. F&J-News, München, S 56–66
+ID  - ref38
+ER  - 
+TY  - STD
+TI  - Fessler G (1985) Überlegungen zu Mehrgitteralgorithmen auf Baumrechnern. In: Trottenberg U, Wypior P (Hrsg) Rechnerarchitekturen für die numerische Simulation auf der Basis superschneller Lösungsverfahren II. GMD-Studien 102:7–14
+ID  - ref39
+ER  - 
+TY  - CHAP
+AU  - Hoffmann, G. R.
+AU  - Maretis, D. K.
+ED  - Ghil, M.
+ED  - Sadourny, R.
+ED  - Sündermann, J.
+PY  - 1990
+DA  - 1990//
+TI  - The dawn of massively parallel processing in meteorology
+BT  - Topics in Atmospheric and Oceanic Sciences
+PB  - Springer
+CY  - Heidelberg
+ID  - Hoffmann1990
+ER  - 
+TY  - STD
+TI  - Kehl E, Oertel KD, Solchenbach K, Vogelsang R, McBryan OW (1990) Application benchmarks on SUPRENUM. SUPRENUM Report 21
+ID  - ref41
+ER  - 
+TY  - STD
+TI  - Kolp O, Mierendorff H (1988) Performance estimations for SUPRENUM systems. In: Trottenberg U (Hrsg) Proceedings of the 2nd International SUPRENUM Colloquium 1987. Parallel Comput 7:357–366
+ID  - ref42
+ER  - 
+TY  - STD
+TI  - Kroll N (1985) Anforderungen an Rechnerleistungen aus der Sicht der numerischen Aerodynamik. In: Trottenberg U, Wypior P (1985) Rechnerarchitekturen für die numerische Simulation auf der Basis superschneller Lösungsverfahren II. GMD-Studien 102:241–252
+ID  - ref43
+ER  - 
+TY  - STD
+TI  - Lemke M (1987) Erfahrungen mit Mehrgitterverfahren für Helmholtz-ähnliche Probleme auf Vektorrechnern und Mehrprozessor-Vektorrechnern. Arbeitspapiere der GMD 278
+ID  - ref44
+ER  - 
+TY  - JOUR
+AU  - McBryan, O. A.
+AU  - Frederickson, P. O.
+AU  - Linden, J.
+AU  - Schüller, A.
+AU  - Solchenbach, K.
+AU  - Stüben, K.
+AU  - Thole, C. A.
+AU  - Trottenberg, U.
+PY  - 1991
+DA  - 1991//
+TI  - Multigrid methods on parallel computers – A survey of recent developments
+JO  - Impact Comput Sci Eng
+VL  - 3
+UR  - https://doi.org/10.1016/0899-8248(91)90015-M
+DO  - 10.1016/0899-8248(91)90015-M
+ID  - McBryan1991
+ER  - 
+TY  - STD
+TI  - Mühlenbein H (1984) Modellierung von parallelen Mehrgitteralgorithmen und Rechnerarchitekturen. In: Trottenberg U, Wypior P (Hrsg) Rechnerarchitekturen für die numerische Simulation auf der Basis superschneller Lösungsverfahren I. GMD-Studien 88:55–64
+ID  - ref46
+ER  - 
+TY  - JOUR
+AU  - Thomas, B.
+PY  - 1989
+DA  - 1989//
+TI  - Kommunikativer Schnellrechner
+JO  - Elektron J
+VL  - 6
+ID  - Thomas1989
+ER  - 
