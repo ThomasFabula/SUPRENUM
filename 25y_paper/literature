@@ -1,0 +1,45 @@
+[1] Brand, K.; Lemke, M.:  SUPRENUM Bibliography Edition 2.1, SUPRENUM Report 9, 1989
+[2] Brandt, A.: Local and Multi-Level Parallel Processing Mill , in [33]
+[3] Colbrook, A.; Duff, I.; Hey, T.;  Stüben, K.; Thole, C.-A. (Special Issue Eds.): Special Issue EUROPORT, The International Journal of Supercomputer Applications and High Performance Computing, Volume 11, Number 4, Sage Science Press, 1997
+[4] Feilmeier, M.; Junker, M.: Superrechner, das Projekt SUPRENUM und die Konsequenzen dieser Entwicklung, Report, F&J-News, 56-66, München 1986
+[5] Fessler, G.: Überlegungen zu Mehrgitteralgorithmen auf Baumrechnern, in [34]
+[6] Franke, B.; Harneit, R.; Kern, A.; Zeidler, H.C.: The Pipeline Bus: An interconnection network for multiprocessor systems, 403-412, in [35]
+[7] Gärtel, U.;  Joppich, W.; Schüller, A.; Trottenberg, U.: Wetter- und Klimavorhersage auf  hochgradig parallelen Rechnern. Informatik-Spektrum 18, 335-339, 1995
+[8] Giloi, W.K.: SUPRENUM: A Trendsetter in Modern Supercomputer Development, 283-296, in [35]
+[9] Hempel, R.: Portabilität numerischer Software für Parallelrechner unterschiedlicher Architektur, in: Reuter, A. (Ed.): GI – 20. Jahrestagung I (1990), Springer-Verlag 1990
+[10] Hempel, R.; Schüller, A.; Solchenbach, K.; Trottenberg, U.: Portable Anwendungssoftware für Parallelrechner, Informationstechnik it 34, 50-56, 1992
+[11] Herzog, U.: Performance evaluation principles for vector- and multiprocessor systems, 425-438,  in [35]
+[12] Hey, A.; McBryan, O.A.: SUPRENUM and GENESIS, Parallel Computing 20, Special Issues 10+11, 1994
+[13] Hillis, W.D.: The Connection Machine, Cambridge, Mass., MIT-Press 1985 
+[14] Hoffmann, G.-R.; Maretis, D.K.: The Dawn of Massively Parallel Processing in Meteorology, Topics in Atmospheric and Oceanic Sciences,  (Ghil, M.; Sadourny, R.; Sündermann, J. - Series Eds.), Springer 1990
+[15] Kammer, H.: The SUPRENUM vector floating-point unit, 315-324, in [35]
+[16] Kauranne, T.: Summary of GENESIS work at the European Centre for Medium-range Weather Forecasts (ECMWF), in [12]
+[17] Kehl, E.; Oertel, K.-D.; Solchenbach, K.; Vogelsang, R.; McBryan, O.W.: Application Benchmarks on SUPRENUM, SUPRENUM Report 21, 1990
+[18] Kolp, O.; Mierendorff, H.: Performance estimations for SUPRENUM systems, 357-366, in [35]
+[19] Kremer, U.; Bast, H.-J.; Gerndt, M.; Zima, H.: Advanced tools and techniques for automatic parallelization, 387-393, in [35]  
+[20] Kroll, N.: Anforderungen an Rechnerleistungen aus der Sicht der numerischen Aerodynamik,      in [34]
+[21] McBryan, O.A.; Frederickson, P.O.; Linden, J.; Schüller, A.; Solchenbach, K.; Stüben,K.; Thole, C.-A.; Trottenberg, U.: Multigrid Methods on Parallel Computers – A Survey of Recent Developments. In: Impact of Computing in Science and Engineering 3, 1-75, 1991
+[22] Mierendorff, H.; Trottenberg, U. (Eds.): Leistungsmessungen für technisch-wissenschaftliche Anwendungen auf dem SUPRENUM-System, Arbeitspapiere der GMD 624, 1992
+[23] Mierendorff, H.; Trottenberg, U. (Eds.): Ergänzende Leistungsmessungen für technisch-wissenschaftliche Anwendungen auf dem SUPRENUM-System, Arbeitspapiere der GMD 669, 1992
+[24] Mühlenbein, H.:  Modellierung von parallelen Mehrgitteralgorithmen und Rechnerarchitekturen, in [33]
+[25] Peinze, K.; Trottenberg, U.; Thomas, B.: Parallelrechner für Superleistung – SUPRENUM, Technische Mitteilungen Krupp 1, 15-28, 1989
+[26] Regenspurg, G.: Hochleistungsrechner-Architekturprinzipien, McGraw-Hill 1987
+[27] Rönsch, W.; Strauss, H.: A linear algebra package for a local memory multiprocessor: Problems, proposals and solutions, 413-418, in [35]
+[28] Schröder, W.: PEACE: The distributed SUPRENUM operating system, 325-333, in [35]
+[29] Solchenbach, K.:  Suprenum-Fortran – an MIMD/SIMD language, SUPERCOMPUTER 30 (volume VI number 2), 25-30, ASFRA Verlag,  Amsterdam 1989
+[30] Solchenbach, K.; Thomas, B.; Trottenberg, U.: Dem parallelen Rechnen gehört die Zukunft. In Meuer, H.W. (Ed.): Supercomputer ´89, Informatik-Fachberichte 211, 110-118, Springer-Verlag 1989
+[31] Solchenbach, K.; Trottenberg, U.: SUPRENUM: System essentials and grid applications, 265-282, in [12]
+[32] Solchenbach, K.; Thole, C.-A.; Trottenberg, U.: GENESIS Application Software, in [5]
+[33] Trottenberg, U.; Wypior, P.: Rechnerarchitekturen für die numerische Simulation auf der Basis superschneller Lösungsverfahren I, GMD-Studien Nr.88, 1984
+[34] Trottenberg, U.; Wypior, P.: Rechnerarchitekturen für die numerische Simulation auf der Basis superschneller Lösungsverfahren II, GMD-Studien Nr. 102, 1985
+[35] Trottenberg, U. (Guest Ed.): Proceedings of the 2nd International SUPRENUM Colloquium 1987, Parallel Computing 7, 1988
+[36] Trottenberg, U.; Oosterlee, C.W.; Schüller, A.: Multigrid, Academic Press, 2001
+[37] Trottenberg, U.: Das Superrechnerprojekt SUPRENUM (1984-1989). In: Reuse, B.; Vollmar, R. (Eds.): Informatikforschung in Deutschland, 176-187, Springer-Verlag 2008
+[38] Werner, K.H.; Brass, U.; Thomas, E.: The Suprenum user interface, SUPERCOMPUTER 30 (volume VI, number 2), 20-24, ASFRA Verlag, Amsterdam 1989
+[39] Burde, T.; Vallbracht, G.; Waldschütz, S.: Fördervorhaben SUPRENUM, Untersuchung von Anwendungs-, Bedarfs- und Akzeptanzfragen, B-SZ 1415/01, IABG GmbH, 1985
+[40] Händler, W.: Anmerkungen zu Erlanger Multiprozessoren, 77 – 113, in [33]
+[41] Händler, W.; Herzog, U.; Hofmann, F.; Schneider, H.J.: Multiprozessoren für breite Anwendungsgebiete: Erlangen General Purpose Array, GI/NTG Fachtagung „Architektur und Betrieb von Rechensystemen“, 195 -208, Informatik-Fachberichte 78, Springer-Verlag 1984
+[412] Hofmann, F.; Händler, W.; Volkert, J.; Henning, G.; Fritsch, G.: Multiprozessor-Architekturkonzept für Mehrgitterverfahren, 65 – 76, in [33]
+[43] Hoßfeld, F.: Vector-Supercomputers, 373-385, in [12]
+[44] Peinze, K.: The SUPRENUM preprototype: Status and Experiences, 297-313, in [35]
+
