@@ -4,13 +4,13 @@ The following publications are a selection of contributions that are directly or
 In total, more than 200 publications related to SUPRENUM appeared during the project period and thereafter, more than 
 150 of which are already listed in the bibliography [1] (1989).
 
-[1] Brand, K.; Lemke, M.:  SUPRENUM Bibliography Edition 2.1, SUPRENUM Report 9, 1989
+[1] Brand, K.; Lemke, M.: SUPRENUM Bibliography Edition 2.1, SUPRENUM Report 9, 1989
 [2] Brandt, A.: Local and Multi-Level Parallel Processing Mill , in [33]
 [3] Colbrook, A.; Duff, I.; Hey, T.;  Stüben, K.; Thole, C.-A. (Special Issue Eds.): Special Issue EUROPORT, The International Journal of Supercomputer Applications and High Performance Computing, Volume 11, Number 4, Sage Science Press, 1997
 [4] Feilmeier, M.; Junker, M.: Superrechner, das Projekt SUPRENUM und die Konsequenzen dieser Entwicklung, Report, F&J-News, 56-66, München 1986
 [5] Fessler, G.: Überlegungen zu Mehrgitteralgorithmen auf Baumrechnern, in [34]
 [6] Franke, B.; Harneit, R.; Kern, A.; Zeidler, H.C.: The Pipeline Bus: An interconnection network for multiprocessor systems, 403-412, in [35]
-[7] Gärtel, U.;  Joppich, W.; Schüller, A.; Trottenberg, U.: Wetter- und Klimavorhersage auf  hochgradig parallelen Rechnern. Informatik-Spektrum 18, 335-339, 1995
+[7] Gärtel, U.; Joppich, W.; Schüller, A.; Trottenberg, U.: Wetter- und Klimavorhersage auf  hochgradig parallelen Rechnern. Informatik-Spektrum 18, 335-339, 1995
 [8] Giloi, W.K.: SUPRENUM: A Trendsetter in Modern Supercomputer Development, 283-296, in [35]
 [9] Hempel, R.: Portabilität numerischer Software für Parallelrechner unterschiedlicher Architektur, in: Reuter, A. (Ed.): GI – 20. Jahrestagung I (1990), Springer-Verlag 1990
 [10] Hempel, R.; Schüller, A.; Solchenbach, K.; Trottenberg, U.: Portable Anwendungssoftware für Parallelrechner, Informationstechnik it 34, 50-56, 1992
@@ -38,7 +38,7 @@ In total, more than 200 publications related to SUPRENUM appeared during the pro
 [32] Solchenbach, K.; Thole, C.-A.; Trottenberg, U.: GENESIS Application Software, in [5]
 [33] Trottenberg, U.; Wypior, P.: Rechnerarchitekturen für die numerische Simulation auf der Basis superschneller Lösungsverfahren I, GMD-Studien Nr.88, 1984
 [34] Trottenberg, U.; Wypior, P.: Rechnerarchitekturen für die numerische Simulation auf der Basis superschneller Lösungsverfahren II, GMD-Studien Nr. 102, 1985
-[35] Trottenberg, U. (Guest Ed.): Proceedings of the 2nd International SUPRENUM Colloquium 1987, Parallel Computing 7, 1988
+[35] Trottenberg, U.; (Guest Ed.): Proceedings of the 2nd International SUPRENUM Colloquium 1987, Parallel Computing 7, 1988
 [36] Trottenberg, U.; Oosterlee, C.W.; Schüller, A.: Multigrid, Academic Press, 2001
 [37] Trottenberg, U.: Das Superrechnerprojekt SUPRENUM (1984-1989). In: Reuse, B.; Vollmar, R. (Eds.): Informatikforschung in Deutschland, 176-187, Springer-Verlag 2008
 [38] Werner, K.H.; Brass, U.; Thomas, E.: The Suprenum user interface, SUPERCOMPUTER 30 (volume VI, number 2), 20-24, ASFRA Verlag, Amsterdam 1989
