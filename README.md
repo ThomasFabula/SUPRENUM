@@ -23,6 +23,7 @@ SUPRENUM was the German supercomputer project aiming at the development and cons
 - https://pp.ipd.kit.edu/publication.php?id=snelting90seap
 - https://www.deutsches-museum.de/forschung/archiv/kleinere-erwerbungen/detailseite/s/sammlung-zum-projekt-des-hoechleistungsrechners-suprenum
 - https://www.northdata.de/SUPRENUM-Gesellschaft+f%C3%BCr+numerische+Superrechner+mbH,+Bremen/HRB+14509
+- https://cris.fau.de/publications/123697464/?lang=de_DE
 - https://dl.acm.org/doi/10.1145/146628.140394
 - https://ieeexplore.ieee.org/document/753329
 - https://ieeexplore.ieee.org/document/10380
