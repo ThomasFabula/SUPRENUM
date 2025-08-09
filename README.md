@@ -29,6 +29,7 @@ SUPRENUM was the German supercomputer project aiming at the development and cons
 - https://ieeexplore.ieee.org/document/753329
 - https://ieeexplore.ieee.org/document/10380
 - https://juser.fz-juelich.de/record/188240
+- https://juser.fz-juelich.de/record/810971
 - https://blog.hnf.de/mut-zur-groesse/
 
 ## Key people
