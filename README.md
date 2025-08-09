@@ -10,6 +10,9 @@ SUPRENUM was the German supercomputer project aiming at the development and cons
 ## BLOG article
 - https://tfconsult.com/suprenum-german-supercomputer/
 
+## SUPRENUM Verbundprojekt Abschlussbericht
+- https://fid-move.de/en/search/id/TIBKAT:019570740?cHash=aa67123ac60644b1898d8e1c3a3f3eb4
+
 ## Further information
 - https://de.wikipedia.org/wiki/SUPRENUM
 - https://www.researchgate.net/publication/327163160_SUPRENUM_25_Jahre
