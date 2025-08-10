@@ -47,6 +47,9 @@ Wolfgang Giloi, together with Ulrich Trottenberg, played a key role in the devel
 
 “Wolfgang Giloi is considered the creator of the first German supercomputer, the SUPRENUM computer, and made a decisive contribution to the development of computer science in Germany.”
 
+## Funding
+The work underlying this report was funded by the German Federal Minister of Research and Technology (BMFT), grant number ITR 8502D0.
+
 ## Videos
 - https://www.youtube.com/watch?v=EegYABYDL0M
 - https://www.youtube.com/watch?v=4_fz3CWRakY
