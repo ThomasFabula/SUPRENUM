@@ -41,6 +41,9 @@ SUPRENUM was the German supercomputer project aiming at the development and cons
 Wolfgang Giloi, together with Ulrich Trottenberg, played a key role in the development of the SUPRENUM parallel computer.
 - https://de.wikipedia.org/wiki/Wolfgang_Giloi
 - https://de.wikipedia.org/wiki/Ulrich_Trottenberg
+- https://cp.tu-berlin.de/person/2383
+- www.wikiwand.com/de/search?q=giloi
+- www.wikiwand.com/de/articles/Ulrich_Trottenberg
 
 ## Videos
 - https://www.youtube.com/watch?v=EegYABYDL0M
